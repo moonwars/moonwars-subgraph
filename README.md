@@ -42,7 +42,7 @@ These contain specifc information about a transaction. Things like which pair tr
 
 ## Example Queries
 
-### Querying Aggregated PantherSwap Data
+### Querying Aggregated MoonWars Finance Data
 
 This query fetches aggregated data from all PantherSwap pairs and tokens, to capture activity throughout the entire protocol.
 
