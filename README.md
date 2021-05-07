@@ -1,6 +1,6 @@
-# PantherSwap Subgraph
+# MoonWars Finance Subgraph
 
-[PantherSwap](https://pantherswap.com/) is a decentralized protocol for automated token exchange on Binance Smart Chain.
+[MoonWars Finance](https://moonwars.finance//) is a decentralized protocol for automated token exchange on Binance Smart Chain.
 
 This subgraph dynamically tracks any pair created by the uniswap factory. It tracks of the current state of PantherSwap contracts, and contains derived stats for things like historical data and USD prices.
 
